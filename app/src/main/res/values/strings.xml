@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News Application</string>
+    <string name="_12_03_2020">12/03/2020</string>
+    <string name="massive_fire_destroys_vital_raf_base">Massive Fire Destroys Vital RAF Base</string>
+    <string name="raf_marham_is_hit_by_suspected_arson_attack">RAF Marham is hit by suspected Arson Attack</string>
+    <string name="it_looks_like_you_are_offline_no_news_available">It looks like you are offline, no news available</string>
+    <string name="author">Author</string>
+</resources>
